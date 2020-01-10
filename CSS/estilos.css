@@ -47,6 +47,14 @@ body
 }
 #post
 {
-    background: white;
+    background: wheat;
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    text-align: center;
+    padding: 0.5em;
+    color: white
 }
