@@ -51,6 +51,11 @@ body
     padding: 1em;
 }
 
+#post #imagen2
+{
+    width: auto;
+}
+
 #footer
 {
     background: #777;
