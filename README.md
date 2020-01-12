@@ -17,4 +17,4 @@ Un blog para iniciar en Git y Github 🐱
 
 ------------
 
-##Creado con amor by kreytosdead ⚡️💙
+## *Creado con amor by kreytosdead* ⚡️💙
